@@ -1,1 +1,1 @@
-# faculdade
+Repositório para as atividades feitas no curso de Ciência da Computação da FUMEC.
